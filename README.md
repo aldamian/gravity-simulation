@@ -1,7 +1,7 @@
-# Gravity_Simulation
+# Gravity simulation
 
 Implemented a simulation of gravity using Euler's approximation method.
-It has the Sun, Earth, Mars, and an asteroid which I jokingly called Oumuamua. 
+It has the Sun, Earth, Mars, and an asteroid.
 
 Note: Could implement with Runge Kutta for more accurate results.
 
